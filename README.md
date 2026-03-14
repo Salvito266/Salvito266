@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Santiago%20Nieto&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Junior%20Developer&descAlignY=55&descFontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=300&section=header&text=Santiago%20Nieto&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Junior%20Developer&descAlignY=58&descFontColor=ffffff&descFontSize=25)
 
 <div align="center">
 
@@ -36,11 +36,9 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Salvito266&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
+![Stats](https://github-readme-stats.vercel.app/api?username=Salvito266&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvito266&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvito266&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)
-
-![Streak](https://streak-stats.demolab.com?user=Salvito266&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![Streak](https://streak-stats.demolab.com?user=Salvito266&theme=tokyonight&hide_border=true)
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salvito266&theme=tokyo-night&hide_border=true&area=true)
 
@@ -50,4 +48,4 @@
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=150&section=footer)
