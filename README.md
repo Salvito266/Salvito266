@@ -42,7 +42,6 @@
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salvito266&theme=tokyo-night&hide_border=true&area=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Salvito266&theme=tokyonight&no-frame=true&row=1&column=7)
 
 ![Views](https://komarev.com/ghpvc/?username=Salvito266&style=for-the-badge&color=7c3aed)
 
