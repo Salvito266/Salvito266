@@ -48,4 +48,4 @@
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=150&section=footer)
+![Footer](https://raw.githubusercontent.com/Salvito266/Salvito266/main/footer.png)
