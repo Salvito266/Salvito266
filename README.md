@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=300&section=header&text=Santiago%20Nieto&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Junior%20Developer&descAlignY=58&descFontColor=ffffff&descFontSize=25)
+![Banner](https://raw.githubusercontent.com/Salvito266/Salvito266/main/banner.png)
 
 <div align="center">
 
